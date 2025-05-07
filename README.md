@@ -31,7 +31,7 @@ This project is a **basic desktop calculator** built with **Python** and **Tkint
 2. Run the calculator script:
 
    ```bash
-   python calculator.py
+   python Calculator.py
    ```
 
 ## 📌 Usage Instructions
